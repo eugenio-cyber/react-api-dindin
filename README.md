@@ -18,7 +18,19 @@ O objetivo desse projeto foi o desenvolvimento duma aplicação para controles d
 
 ## 💻 Como usar?
 
-Para usar você precisará se cadastrar na página de cadastro adicionando os dados necessários, depois de ter se cadsatrado no sistema você está habilitado para fazer o login. Dentro da aplicação você tem as possibilidades de: cadastrar uma nova transação, editar uma transação, excluir uma transação, ver a lista de transações, ordenar a tabela por data, ter um resumo das transações (valor das entradas, saídas e saldo), filtrar as transações por categoria, editar o seu perfil e deslogar.
+<p>
+ Para usar você precisará se cadastrar na página de cadastro adicionando os dados necessários, depois de ter se cadsatrado no sistema você está habilitado para fazer o login. Dentro da aplicação você tem as possibilidades de:
+ <ul>
+  <li>cadastrar transação;</li>
+  <li>editar transação;</li>
+  <li>excluir transação;</li>
+  <li>ver a lista de transações;</li>
+  <li>ordenar a tabela por data;</li>
+  <li>ter um resumo das transações (valor das entradas, saídas e saldo);</li>
+  <li>filtrar as transações por categoria;</li>
+  <li>editar o seu perfil;</li>
+ </ul>
+</p>
 
 ## 🛠️ Ferramentas utilizadas?
 
